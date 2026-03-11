@@ -32,7 +32,7 @@ Minha jornada na tecnologia começou no suporte de TI, onde desenvolvi habilidad
 
 ## 📫 Você me encontra em:
 
-<a target='_blank' href="https://www.linkedin.com/in/alafaethygomes/">
+<a target='_blank' href="https://www.linkedin.com/in/alafaethy-gomes/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a target='_blank' href="mailto:afaethy@gmail.com">
